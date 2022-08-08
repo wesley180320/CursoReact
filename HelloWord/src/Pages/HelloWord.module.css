@@ -1,0 +1,12 @@
+.container{
+
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 5em;
+}
+
+.container h1{
+
+    color: aquamarine;
+}
